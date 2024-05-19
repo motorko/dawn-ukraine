@@ -64,7 +64,7 @@
   },
   "accessibility": {
     "skip_to_text": "Перейти до змісту",
-    "skip_to_product_info": "Перейти до інформації про продукт",
+    "skip_to_product_info": "Перейти до інформації про товар",
     "close": "Закрити",
     "unit_price_separator": "за",
     "vendor": "Продавець:",
@@ -78,7 +78,7 @@
     "total_reviews": "всього відгуків",
     "star_reviews_info": "{{ rating_value }} з {{ rating_max }} зірок",
     "collapsible_content_title": "Розбірний вміст",
-    "complementary_products": "Додаткові продукти"
+    "complementary_products": "Додаткові товари"
   },
   "blogs": {
     "article": {
@@ -101,7 +101,7 @@
     }
   },
   "onboarding": {
-    "product_title": "Приклад назви продукту",
+    "product_title": "Приклад назви товару",
     "collection_title": "Ім'я вашої колекції"
   },
   "products": {
@@ -118,7 +118,7 @@
       "inventory_out_of_stock_continue_selling": "В наявності",
       "sku": "SKU",
       "on_sale": "Зали",
-      "product_variants": "Варіанти продукту",
+      "product_variants": "Варіанти товару",
       "media": {
         "gallery_viewer": "Переглядач галереї",
         "load_image": "Завантажити зображення {{ index }} у вигляді галереї",
@@ -164,7 +164,7 @@
         "sale_price": "Ціна продажу",
         "unit_price": "Ціна за одиницю"
       },
-      "share": "Поділіться цим продуктом",
+      "share": "Поділіться цим товаром",
       "sold_out": "Все продано",
       "unavailable": "Недоступно",
       "vendor": "Постачальник",
@@ -198,12 +198,12 @@
       "show_less": "Показати менше",
       "max_price": "Найвища ціна - {{ price }}",
       "product_count": {
-        "one": "{{ product_count }} продукту {{ count }}",
+        "one": "{{ product_count }} товар {{ count }}",
         "other": "{{ product_count }} товарів {{ count }}"
       },
       "product_count_simple": {
-        "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "one": "{{ count }} товар",
+        "other": "{{ count }} товарів"
       },
       "reset": "Перезавантаження",
       "sort_button": "Сортування",
@@ -216,9 +216,9 @@
     "search": {
       "no_results": "Для \"{{ terms }}\" не знайдено жодного результату. Перевірте правопис або використовуйте інше слово чи фразу.",
       "page": "Сторінка",
-      "products": "Продукти",
+      "products": "Товари",
       "results_pages_with_count": {
-        "one": "{{ count }} page",
+        "one": "{{ count }} сторінка",
         "other": "{{ count }} сторінок"
       },
       "results_suggestions_with_count": {
@@ -226,8 +226,8 @@
         "other": "{{ count }} пропозицій"
       },
       "results_products_with_count": {
-        "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "one": "{{ count }} товар",
+        "other": "{{ count }} товари"
       },
       "results_with_count": {
         "one": "{{ count }} result",
@@ -294,11 +294,11 @@
       "taxes_included_and_shipping_policy_html": "Податок включено. <a href=\"{{ link }}\">Доставка<\/a> та знижки розраховуються при оформленні замовлення.",
       "taxes_and_shipping_at_checkout": "Податки, знижки та вартість доставки розраховуються при оформленні замовлення",
       "headings": {
-        "product": "Продукт",
+        "product": "Товар",
         "price": "Ціна",
         "total": "Всього",
         "quantity": "Кількість",
-        "image": "Зображення продукту"
+        "image": "Зображення товару"
       },
       "update": "Оновлення",
       "login": {
@@ -342,10 +342,10 @@
       "title": "Назва сторінки"
     },
     "quick_order_list": {
-      "product_total": "Проміжний підсумок продукту",
+      "product_total": "Проміжний підсумок товару",
       "view_cart": "Переглянути кошик",
       "each": "{{ money }}\/ea",
-      "product": "Продукт",
+      "product": "Товар",
       "variant": "Варіант",
       "variant_total": "Всього варіантів",
       "items_added": {
@@ -356,7 +356,7 @@
         "one": "{{ quantity }} товар видалено",
         "other": "видалено {{ quantity }} позицій"
       },
-      "product_variants": "Варіанти продукту",
+      "product_variants": "Варіанти товару",
       "total_items": "Всього позицій",
       "remove_all_single_item_confirmation": "Видалити 1 товар з кошика?",
       "remove_all_items_confirmation": "Видалити всі товари {{ quantity }} з кошика?",
@@ -442,7 +442,7 @@
       "discount": "Знижка",
       "shipping": "Доставка",
       "tax": "Податок",
-      "product": "Продукт",
+      "product": "Товар",
       "sku": "SKU",
       "price": "Ціна",
       "quantity": "Кількість",
