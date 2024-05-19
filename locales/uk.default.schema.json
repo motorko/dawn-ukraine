@@ -204,7 +204,7 @@
     },
     "variant_pills": {
       "name": "Таблетки-варіанти",
-      "paragraph": "Таблетки з варіантами - це один із способів відображення варіантів вашого продукту. [Дізнатися більше](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Таблетки з варіантами - це один із способів відображення варіантів вашого товару. [Дізнатися більше](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Вхідні дані"
@@ -563,10 +563,10 @@
           }
         },
         "product": {
-          "name": "Продукт",
+          "name": "Товар",
           "settings": {
             "product": {
-              "label": "Продукт"
+              "label": "Товар"
             },
             "secondary_background": {
               "label": "Показати вторинне тло"
@@ -740,7 +740,7 @@
           "label": "Колекція"
         },
         "products_to_show": {
-          "label": "Максимум продуктів для показу"
+          "label": "Максимум товарів для показу"
         },
         "columns_desktop": {
           "label": "Кількість колонок на робочому столі"
@@ -764,7 +764,7 @@
           "label": "Увімкнути карусель на робочому столі"
         },
         "full_width": {
-          "label": "Робіть продукти на всю ширину"
+          "label": "Робіть товари на всю ширину"
         },
         "header": {
           "content": "Картка товару"
@@ -789,7 +789,7 @@
         },
         "show_rating": {
           "label": "Показати рейтинг товару",
-          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
+          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
         },
         "enable_quick_buy": {
           "label": "Увімкнути кнопку швидкого додавання",
@@ -816,7 +816,7 @@
       }
     },
     "featured-product": {
-      "name": "Основний продукт",
+      "name": "Основний товар",
       "blocks": {
         "text": {
           "name": "Текст",
@@ -861,7 +861,7 @@
             },
             "swatch_shape": {
               "label": "Зразок",
-              "info": "Увімкніть [зразки](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) для опцій продукту.",
+              "info": "Увімкніть [зразки](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) для опцій товару.",
               "options__1": {
                 "label": "Коло"
               },
@@ -918,17 +918,17 @@
           }
         },
         "rating": {
-          "name": "Рейтинг продукту",
+          "name": "Рейтинг товаруу",
           "settings": {
             "paragraph": {
-              "content": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
+              "content": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
             }
           }
         }
       },
       "settings": {
         "product": {
-          "label": "Продукт"
+          "label": "Товар"
         },
         "secondary_background": {
           "label": "Показати вторинне тло"
@@ -955,7 +955,7 @@
         }
       },
       "presets": {
-        "name": "Основний продукт"
+        "name": "Основний товар"
       }
     },
     "footer": {
@@ -1768,10 +1768,10 @@
       }
     },
     "main-collection-product-grid": {
-      "name": "Продуктова сітка",
+      "name": "Сітка товарів",
       "settings": {
         "products_per_page": {
-          "label": "Продукти на сторінці"
+          "label": "Товарів на сторінці"
         },
         "columns_desktop": {
           "label": "Кількість колонок на робочому столі"
@@ -1816,7 +1816,7 @@
         },
         "show_rating": {
           "label": "Показати рейтинг товару",
-          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-grid-section-settings)"
+          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-grid-section-settings)"
         },
         "header__1": {
           "content": "Фільтрація та сортування"
@@ -1872,10 +1872,10 @@
             "label": "Дата, від старого до нового"
           },
           "options__5": {
-            "label": "Кількість продуктів, від високого до низького"
+            "label": "Кількість товарів, від високого до низького"
           },
           "options__6": {
-            "label": "Кількість продуктів, від низької до високої"
+            "label": "Кількість товарів, від низької до високої"
           }
         },
         "image_ratio": {
@@ -1935,7 +1935,7 @@
       }
     },
     "main-product": {
-      "name": "Інформація про продукт",
+      "name": "Інформація про товар",
       "blocks": {
         "text": {
           "name": "Текст",
@@ -2004,7 +2004,7 @@
             },
             "swatch_shape": {
               "label": "Зразок",
-              "info": "Увімкніть [зразки](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) для опцій продукту.",
+              "info": "Увімкніть [зразки](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) для опцій товару.",
               "options__1": {
                 "label": "Коло"
               },
@@ -2110,10 +2110,10 @@
                 "label": "Буфер обміну"
               },
               "options__10": {
-                "label": "Молочні продукти"
+                "label": "Молочні товари"
               },
               "options__11": {
-                "label": "Без молочних продуктів"
+                "label": "Без молочних товарів"
               },
               "options__12": {
                 "label": "Сушарка"
@@ -2229,18 +2229,18 @@
           }
         },
         "rating": {
-          "name": "Рейтинг продукту",
+          "name": "Рейтинг товару",
           "settings": {
             "paragraph": {
-              "content": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
             }
           }
         },
         "complementary_products": {
-          "name": "Додаткові продукти",
+          "name": "Додаткові товари",
           "settings": {
             "paragraph": {
-              "content": "Щоб вибрати додаткові продукти, додайте додаток Search & Discovery. [Дізнатися більше](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Щоб вибрати додаткові товари, додайте додаток Search & Discovery. [Дізнатися більше](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
             },
             "heading": {
               "label": "Заголовок"
@@ -2252,10 +2252,10 @@
               "info": "Відображається, коли відображається згорнутий рядок."
             },
             "product_list_limit": {
-              "label": "Максимум продуктів для показу"
+              "label": "Максимум товарів для показу"
             },
             "products_per_page": {
-              "label": "Кількість продуктів на сторінці"
+              "label": "Кількість товарів на сторінці"
             },
             "pagination_style": {
               "label": "Стиль нумерації сторінок",
@@ -2452,7 +2452,7 @@
         },
         "show_rating": {
           "label": "Показати рейтинг товару",
-          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#search-results-section-settings)"
+          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#search-results-section-settings)"
         },
         "header__1": {
           "content": "Картка товару"
@@ -2783,13 +2783,13 @@
           "label": "Заголовок"
         },
         "products_to_show": {
-          "label": "Максимум продуктів для показу"
+          "label": "Максимум товарів для показу"
         },
         "columns_desktop": {
           "label": "Кількість колонок на робочому столі"
         },
         "paragraph__1": {
-          "content": "Динамічні рекомендації використовують інформацію про замовлення та продукти, яка змінюється та вдосконалюється з часом. [Дізнатися більше](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Динамічні рекомендації використовують інформацію про замовлення та товари, яка змінюється та вдосконалюється з часом. [Дізнатися більше](https://help.shopify.com/themes/development/recommended-products)"
         },
         "header__2": {
           "content": "Картка товару"
@@ -2814,7 +2814,7 @@
         },
         "show_rating": {
           "label": "Показати рейтинг товару",
-          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання продуктів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Щоб відобразити рейтинг, додайте додаток для оцінювання товарів. [Дізнатися більше](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Мобільний макет"
@@ -3246,10 +3246,10 @@
                 "label": "Буфер обміну"
               },
               "options__10": {
-                "label": "Молочні продукти"
+                "label": "Молочні товари"
               },
               "options__11": {
-                "label": "Без молочних продуктів"
+                "label": "Без молочних товарів"
               },
               "options__12": {
                 "label": "Сушарка"
