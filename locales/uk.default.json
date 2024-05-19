@@ -77,7 +77,7 @@
     "loading": "Завантаження...",
     "total_reviews": "всього відгуків",
     "star_reviews_info": "{{ rating_value }} з {{ rating_max }} зірок",
-    "collapsible_content_title": "Розбірний вміст",
+    "collapsible_content_title": "Складаний вміст",
     "complementary_products": "Додаткові товари"
   },
   "blogs": {
