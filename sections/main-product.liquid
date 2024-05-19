@@ -560,9 +560,9 @@
                                   -%}
                                     <li>
                                       {%- if block.settings.enable_quick_add -%}
-                                        {% assign quick_add = "standard" %}
+                                        {% assign quick_add = 'standard' %}
                                       {%- else -%}
-                                        {% assign quick_add = "none" %}
+                                        {% assign quick_add = 'none' %}
                                       {%- endif -%}
                                       {% render 'card-product',
                                         card_product: product,
@@ -761,7 +761,7 @@
         {
           "type": "inline_richtext",
           "id": "text",
-          "default": "Text block",
+          "default": "Текстовий блок",
           "label": "t:sections.main-product.blocks.text.settings.text.label"
         },
         {
@@ -950,7 +950,7 @@
           "type": "text",
           "id": "share_label",
           "label": "t:sections.main-product.blocks.share.settings.text.label",
-          "default": "Share"
+          "default": "Поділитися"
         },
         {
           "type": "paragraph",
@@ -981,7 +981,7 @@
         {
           "type": "text",
           "id": "heading",
-          "default": "Collapsible row",
+          "default": "Складаний ряд",
           "info": "t:sections.main-product.blocks.collapsible_tab.settings.heading.info",
           "label": "t:sections.main-product.blocks.collapsible_tab.settings.heading.label"
         },
@@ -1188,7 +1188,7 @@
         {
           "type": "text",
           "id": "text",
-          "default": "Pop-up link text",
+          "default": "Текст посилання попапу",
           "label": "t:sections.main-product.blocks.popup.settings.link_label.label"
         },
         {
@@ -1221,7 +1221,7 @@
         {
           "type": "text",
           "id": "block_heading",
-          "default": "Pairs well with",
+          "default": "Добре поєднується з",
           "label": "t:sections.main-product.blocks.complementary_products.settings.heading.label"
         },
         {
@@ -2090,7 +2090,7 @@
         {
           "type": "inline_richtext",
           "id": "heading_3",
-          "default": "Heading",
+          "default": "Залоговок",
           "label": "t:sections.main-product.blocks.icon_with_text.settings.heading_3.label",
           "info": "t:sections.main-product.blocks.icon_with_text.settings.heading.info"
         }
